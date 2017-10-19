@@ -26,3 +26,10 @@ tr > td:nth-child(1) {
 tr > td:nth-child(3) {
   border-right: none;
 }
+
+iframe{
+	width: 560px;
+	height: 315px;
+	frameborder: 0;
+	allowfullscreen: true;
+}
